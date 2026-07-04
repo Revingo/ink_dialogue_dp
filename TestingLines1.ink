@@ -7,4 +7,5 @@ Now the speaker is a mistery! # lockey: ink_test5 # speaker: s_mistery
 And now we just have no speaker, I guess... # lockey: ink_test6 # speaker: none
 And now we have a gigantic test, so big we do not even know how big it is! It will have to be displayed on multiple lines! Will make it a lot faster to type so we do not go to sleep... Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. #lockey: ink_test7 # typing_speed: 0,005
 Let's test if auto-sync actually works! # lockey: ink_synctest1
+This is another test, let's see what happens # lockey: ink_synctest2
 -> END
