@@ -1,0 +1,4 @@
+*.meta
+*.json
+*.log
+*.DS_Store

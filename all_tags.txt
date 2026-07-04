@@ -1,0 +1,35 @@
+# ---------------------------------------------------------------------------- #
+
+# lockey: <localization_key>
+
+Ogni linea di dialogo deve avere questo tag, oppure non sarà possibile mostrarla.
+La "localization_key" dovrebbe iniziare con "ink_", per poi proseguire con il resto della chiave.
+Non utilizzare due chiavi identiche per diversi dialoghi. Puoi utilizzare la stessa chiave se il dialogo è uguale.
+
+Esempio: # lockey: ink_example3
+
+# ---------------------------------------------------------------------------- #
+
+# typing_speed: <speed_in_seconds> (default: 0,04)
+
+La velocità in secondi in cui ogni lettera verrà mostrata a schermo.
+Tag non mandatorio, se non specificato la velocità sarà 0,04 secondi.
+Consigliato modificare solo se si vuole rendere la velocità del dialogo molto più lenta o molto più veloce.
+
+Esempio: # typing_speed: 0,01
+
+# ---------------------------------------------------------------------------- #
+
+# speaker: <speaker_tag>
+
+A volte questo tag non è necessario se si vuole rendere chi sta parlando un mistero, altrimenti è necessario
+usarlo almeno una volta per file. Non è necessario questo tag a ogni linea, poichè lo speaker resterà lo stesso
+fino a che non verrà cambiato. Usare come tag "none" toglierà il nome di chi sta parlando.
+
+Esempio: # speaker: s_TOWS
+
+Attuali possibili tag utilizzabili:
+
+- s_TOWS: The One Who Sees - Colui Che Vede
+- s_elijah_c: Elijah Connors
+- s_mistery: ???
